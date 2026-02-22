@@ -3,7 +3,6 @@
 > Basic knowledge of Elixir / Elixir 基础知识
 
 [![Elixir](https://img.shields.io/badge/Elixir-1.15+-purple.svg)](https://elixir-lang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 English | [中文](#中文说明)
 
@@ -91,9 +90,3 @@ Elixir 是一门基于 Erlang VM（BEAM）的函数式编程语言，具有以�
 - ✅ 强大的模式匹配
 - ✅ 不可变数据
 - ✅ 轻量级进程（Actor 模型）
-
----
-
-## 📝 License
-
-MIT License — feel free to use and share!
